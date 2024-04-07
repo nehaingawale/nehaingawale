@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Ingawale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FCreating-a-README-md-GIF-by-helloChris-1588335.html&psig=AOvVaw1iIQC7lW6V-O2zqTmmHjqm&ust=1712562092981000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCpmozNr4UDFQAAAAAdAAAAABAE)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehaingawale&label=Profile%20views&color=0e75b6&style=flat" alt="nehaingawale" /> </p>
 
 - 🌱 I’m currently Completed **Full Stack Development Course**
